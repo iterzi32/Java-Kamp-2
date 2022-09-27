@@ -1,0 +1,15 @@
+package classesWithAttributes;
+
+public class ProductManager {
+	public void Add(Product product) {
+		System.out.println("Ürün eklendi: " + product.name);
+	}
+
+	public void Remove(Product product) {
+		System.out.println("Ürün silindi: " + product.name);
+	}
+
+	public void Update(Product product) {
+		System.out.println("Ürün güncellendi: " + product.name);
+	}
+}

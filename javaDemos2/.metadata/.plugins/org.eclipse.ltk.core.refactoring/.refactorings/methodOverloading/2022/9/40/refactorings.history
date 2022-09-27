@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;methodOverloading.dortIslem&apos; to &apos;DortIslem&apos;&#x0D;&#x0A;- Original project: &apos;methodOverloading&apos;&#x0D;&#x0A;- Original element: &apos;methodOverloading.dortIslem&apos;&#x0D;&#x0A;- Renamed element: &apos;methodOverloading.DortIslem&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;dortIslem&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;methodOverloading{dortIslem.java[dortIslem" matchStrategy="1" name="DortIslem" qualified="false" references="true" similarDeclarations="false" stamp="1664182247172" textual="false" version="1.0"/>
+</session>
